@@ -1,0 +1,84 @@
+.Main {
+ color:grey;
+ margin-left: 200px; 
+ width: 20%;
+
+}
+.PDF{
+    width: 10%;
+  margin-left: 1200px;
+  margin-top: -60px;
+  
+
+  
+}
+.color{
+    background-color: rgba(128, 128, 128, 0.633);
+}
+.profile{
+    color: gray;
+    width: 10%;
+    margin-left: 100px;
+}
+.lorem{
+    color: gray;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+.Skills{
+ color: gray;
+width: 10%;
+margin-left: 100px;
+
+}
+.webdesign{
+    width: 20%;
+    margin-left: 300px;
+    margin-top: -50px;
+    color:  gray;
+}
+.interfacedesign{
+    color: gray;
+    width: 20%;
+    margin-left: 700px;
+    margin-top: -170px;
+}
+.projectdirection{
+    color: gray;
+    width: 20%;
+    margin-left: 1100px;
+    margin-top: -160px;
+    
+}
+.tecnical{
+    color: gray;
+    width: 10%;
+    margin-left: 100px;
+}
+.table{
+    color: gray;
+    border-collapse: collapse;
+    margin-left: 400px;
+    margin-top:-60px ;
+    width: 20%
+
+    ;
+}
+.experience{
+    color: gray;
+    width: 10%;
+    margin-left: 100px;
+}
+.facebook{
+    color: gray;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+.apple{
+    color: gray;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: -20px;
+}
